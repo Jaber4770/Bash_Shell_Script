@@ -5,3 +5,6 @@ echo "hello world";
 
 fruit="Mango"
 echo $fruit;
+
+country="Bangladesh"
+echo $country
