@@ -16,3 +16,11 @@ y=5;
  
 z=$(( $x+$y ))
 echo $z;
+
+
+#another math
+a=1;
+b=2;
+
+c=$(( $a-$b));
+echo $c;
